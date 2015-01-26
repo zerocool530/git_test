@@ -11,5 +11,4 @@
 int main()
 {
     printf("수정");
-    branch test1;
 }
